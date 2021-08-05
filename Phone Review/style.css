@@ -9,7 +9,7 @@
     height: 100vh;
     position: relative;
     overflow: hidden;
-    background: linear-gradient(to right, #9c27b0, #8ecdff);
+    background: linear-gradient(to right,  #01aaffd3, #03ff25cc);
 }
 
 nav{
@@ -23,10 +23,12 @@ nav{
 
 .logo{
     flex-basis: 20%;
+    height: 50px;
 }
 
 .logo img{
-    width: 150px;
+    width: 80px;
+    height: 80px;
 }
 
 .nav-links{
@@ -165,7 +167,7 @@ nav{
         height: 100vh;
         position: relative;
         overflow: hidden;
-        background: linear-gradient(to right, #9c27b0, #8ecdff);
+        background: linear-gradient(to right,  #01aaffd3, #03ff25cc);
     }
 
     .nav-links{
